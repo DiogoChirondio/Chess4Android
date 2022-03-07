@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Chess4Android</string>
+    <string name="about_content">Chess application created for the PDM course at ISEL</string>
+    <string name="get_puzzle">Get Daily Puzzle</string>
+    <string name="fetching_message">Fetching Daily Puzzle</string>
+    <string name="fetch_daily_puzzle">Fetch Daily Puzzle</string>
+    <string name="about_lichess">Using the API lichess</string>
+    <string name="about_menu">About</string>
+    <string name="history">History</string>
+    <string name="start">Start</string>
+    <string name="github_icon" translatable="false">GitHub icon</string>
+    <string name="avaiable_plays">"Plays: "</string>
+    <string name="attempt_message">Wanna try?</string>
+    <string name="solved_message">SOLVED</string>
+    <string name="online">Online</string>
+    <string name="not_solved_message">NOT SOLVED</string>
+    <string name="victory_message">YOU WIN!</string>
+    <string name="loser_message">YOU LOSE!</string>
+    <string name="wrong_move">Wrong Move</string>
+
+    <!-- Create challenge screen -->
+    <string name="create_challenge_title">Create Challenge</string>
+    <string name="create_challenge_waiting_message">Waiting for the contender</string>
+    <string name="create_challenge_prompt_challenger_name">Name</string>
+    <string name="create_challenge_prompt_message">Message</string>
+    <string name="create_challenge_button_label">Post challenge</string>
+    <string name="cancel_challenge_button_label">Cancel</string>
+    <string name="create_challenge_button_label_in_short">Post it</string>
+    <string name="error_creating_challenge">Could not create challenge</string>
+
+    <!-- Game list screen -->
+    <string name="list_screen_title">Chess4Android challenges</string>
+    <string name="list_create_challenge_button_label">New Challenge</string>
+    <string name="list_menu_update_label">Refresh</string>
+    <string name="error_getting_list">Could not fetch challenges list</string>
+    <string name="error_accepting_challenge">Could not accept challenge</string>
+    <string name="accept_challenge_dialog_title">Accept %s\'s challenge?</string>
+    <string name="accept_challenge_dialog_ok">OK</string>
+    <string name="accept_challenge_dialog_cancel">Cancel</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Game screen -->
+    <string name="game_forfeit_button_label">Forfeit</string>
+</resources>

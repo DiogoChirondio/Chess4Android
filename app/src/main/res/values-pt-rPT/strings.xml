@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chess4Android</string>
+    <string name="about_content">Aplicação de xadrez para a cadeira de PDM no ISEL </string>
+    <string name="about_lichess">Usando a API do lichess</string>
+    <string name="get_puzzle">Obter Puzzle Diário</string>
+    <string name="fetching_message">Carregando Puzzle Diário</string>
+    <string name="about_menu">Sobre</string>
+    <string name="history">Histórico</string>
+    <string name="start">Começar</string>
+    <string name="fetch_daily_puzzle">Obter Puzzle Diário</string>
+    <string name="avaiable_plays">"Jogadas: "</string>
+    <string name="attempt_message">Quer tentar?</string>
+    <string name="solved_message">RESOLVIDO</string>
+    <string name="online">Online</string>
+    <string name="not_solved_message">POR RESOLVER</string>
+    <string name="victory_message">VITÓRIA!</string>
+    <string name="loser_message">DERROTA!</string>
+    <string name="wrong_move">Jogada Incorreta</string>
+
+    <!-- Create challenge screen -->
+    <string name="create_challenge_title">Criar Desafio</string>
+    <string name="create_challenge_waiting_message">Em espera por um adversário</string>
+    <string name="create_challenge_prompt_challenger_name">Nome</string>
+    <string name="create_challenge_prompt_message">Mensagem</string>
+    <string name="create_challenge_button_label">Colocar desafio</string>
+    <string name="cancel_challenge_button_label">Cancelar</string>
+    <string name="create_challenge_button_label_in_short">Coloque</string>
+    <string name="error_creating_challenge">Não foi possível criar o desafio</string>
+
+    <!-- Game list screen -->
+    <string name="list_screen_title">Chess4Android desafios</string>
+    <string name="list_create_challenge_button_label">Novo Desafio</string>
+    <string name="list_menu_update_label">Recarregue</string>
+    <string name="error_getting_list">Não foi possível obter a lista de deafios</string>
+    <string name="error_accepting_challenge">Não foi possível aceitar o deafio</string>
+    <string name="accept_challenge_dialog_title">Aceitar o desafio de %s\'s?</string>
+    <string name="accept_challenge_dialog_ok">OK</string>
+    <string name="accept_challenge_dialog_cancel">Cancelar</string>
+    <string name="loading">Carregando…</string>
+
+    <!-- Game screen -->
+    <string name="game_forfeit_button_label">Desistir</string>
+</resources>
