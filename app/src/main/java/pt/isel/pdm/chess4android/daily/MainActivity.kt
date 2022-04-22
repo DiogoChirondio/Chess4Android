@@ -39,6 +39,7 @@ class MainActivity : BaseActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
         Log.v("APP_TAG", Thread.currentThread().id.toString())
+		Log.v("APP_TAG", Thread.currentThread().id.toString())
 
         val puzzleDto = intent.getParcelableExtra<PuzzleGameDto>(PUZZLE_EXTRA)
 
